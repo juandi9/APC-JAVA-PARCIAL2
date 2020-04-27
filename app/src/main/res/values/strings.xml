@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Super</string>
+    <string name="name">Clark Kent</string>
+    <string name="image">Imagen</string>
+    <string name="name_character">Name character?</string>
+    <string name="done">Done</string>
+    <string name="description">Es un personaje ficticio, un superhéroe de los cómics que aparece en las publicaciones de DC Comics.​​​​</string>
+    <string name="scroll_text_one">Superman 1</string>
+    <string name="scroll_year_one">1978</string>
+    <string name="scroll_text_two">Superman 2</string>
+    <string name="scroll_year_two">1980</string>
+    <string name="scroll_text_three">Superman 3</string>
+    <string name="scroll_year_three">1983</string>
+</resources>
